@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head profile="http://www.w3.org/2005/10/profile">
+    <title>About Wainuiomata, Lower Hutt, New Zealand</title>
+    <link rel="stylesheet" type="text/css" href="weewx.css"/>
+    <link rel="icon" type="image/png" href="favicon.ico" />
+    <script type="text/javascript">
+      function openURL(urlname)
+      {
+        window.location=urlname;
+      }
+    </script>
+  </head>
+
+  <body>
+    <div id="container">
+      <div id="masthead">
+        <h1>Wainuiomata, Lower Hutt, New Zealand</h1>
+        <h3>About this weather station</h3>
+        <div id="about">
+            <table class="center">
+              <caption class="caption">Location</caption>
+              <tr>
+                <td class="label">Latitude:</td>
+                <td class="data">41&deg; 15.12' S</td>
+              </tr>
+              <tr>
+                <td class="label">Longitude:</td>
+                <td class="data">174&deg; 57.24' E</td>
+              </tr>
+              <tr>
+                <td class="label">Altitude:</td>
+                <td class="data">107 meters</td>
+              </tr>
+            </table>
+          <p>
+            This station uses 1-wire sensors <!--read by OWFS and -->controlled by
+            <a href="http://www.weewx.com">weewx</a> running on a Raspberry Pi
+          </p>
+          <!--<p><a href="RSS/weewx_rss.xml">RSS feed</a></p>-->
+          <p>Weewx uptime:  37 days, 10 hrs, 7 minutes<br/>
+             Raspberry Pi uptime: 37 days, 10 hrs, 8 minutes<br/>
+             weewx v3.6.2</p>
+        </div> 
+      </div>
+      <div id="navbar">
+        <input type="button" value="   Current   " onclick="openURL('index.html')" />
+        <input type="button" value="    Week     " onclick="openURL('week.html')" />
+        <input type="button" value="    Month    " onclick="openURL('month.html')" />
+        <input type="button" value="    Year     " onclick="openURL('year.html')" />
+      </div>
+    </div>
+
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+        try{
+            var pageTracker = _gat._getTracker("UA-51450812-1");
+            pageTracker._trackPageview();
+        } catch(err) {}
+    </script>
+
+  </body>
+</html>
+
