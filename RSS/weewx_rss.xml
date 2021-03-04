@@ -7,30 +7,30 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Fri, 05 Mar 2021 05:45:00 NZDT</pubDate>
+      <pubDate>Fri, 05 Mar 2021 05:50:00 NZDT</pubDate>
 
-      <lastBuildDate>Fri, 05 Mar 2021 05:45:00 NZDT</lastBuildDate>
+      <lastBuildDate>Fri, 05 Mar 2021 05:50:00 NZDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.6.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 2021-03-05 0545 NZDT</title>
+         <title>Weather Conditions at 2021-03-05 0550 NZDT</title>
          <link></link>
          <description>
-           Outside temperature: 14.4&#176;C; 
+           Outside temperature: 14.3&#176;C; 
            Barometer:    N/A; 
            Wind:    N/A from    N/A; 
            Rain rate: 0.0 mm/hr; 
            Inside temperature:    N/A
          </description>
-         <pubDate>Fri, 05 Mar 2021 05:45:00 NZDT</pubDate>
+         <pubDate>Fri, 05 Mar 2021 05:50:00 NZDT</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                2021-03-05 0545 NZDT<br/>
-             Outside Temperature: 14.4&#176;C<br/>
+             Time:                2021-03-05 0550 NZDT<br/>
+             Outside Temperature: 14.3&#176;C<br/>
              Inside Temperature:     N/A<br/>
              Wind Chill:             N/A<br/>
              Heat Index:             N/A<br/>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 2021-03-05 0545 NZDT</title>
+         <title>Daily Weather Summary as of 2021-03-05 0550 NZDT</title>
          <link></link>
          <description>
 	        Min outside temperature: 14.1&#176;C at 0516;
@@ -56,7 +56,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Fri, 05 Mar 2021 05:45:00 NZDT</pubDate>
+         <pubDate>Fri, 05 Mar 2021 05:50:00 NZDT</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 2021-03-05 0545 NZDT</title>
+         <title>Monthly Weather Summary as of 2021-03-05 0550 NZDT</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 13.2&#176;C at 2021-03-01 0549 NZDT;
@@ -87,7 +87,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain total for month:    0.0 mm
          </description>
-         <pubDate>Fri, 05 Mar 2021 05:45:00 NZDT</pubDate>
+         <pubDate>Fri, 05 Mar 2021 05:50:00 NZDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   March 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 2021-03-05 0545 NZDT</title>
+         <title>Yearly Weather Summary as of 2021-03-05 0550 NZDT</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 2.9&#176;C at 2021-02-18 0613 NZDT;
@@ -116,7 +116,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain total for year:     91.0 mm
          </description>
-         <pubDate>Fri, 05 Mar 2021 05:45:00 NZDT</pubDate>
+         <pubDate>Fri, 05 Mar 2021 05:50:00 NZDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
