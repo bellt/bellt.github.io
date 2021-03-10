@@ -7,29 +7,29 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Wed, 10 Mar 2021 19:05:00 NZDT</pubDate>
+      <pubDate>Wed, 10 Mar 2021 19:10:00 NZDT</pubDate>
 
-      <lastBuildDate>Wed, 10 Mar 2021 19:05:00 NZDT</lastBuildDate>
+      <lastBuildDate>Wed, 10 Mar 2021 19:10:00 NZDT</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.6.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 2021-03-10 1905 NZDT</title>
+         <title>Weather Conditions at 2021-03-10 1910 NZDT</title>
          <link></link>
          <description>
            Outside temperature: 16.2&#176;C; 
            Barometer:    N/A; 
            Wind:    N/A from    N/A; 
-           Rain rate: 0.0 mm/hr; 
+           Rain rate: 0.9 mm/hr; 
            Inside temperature:    N/A
          </description>
-         <pubDate>Wed, 10 Mar 2021 19:05:00 NZDT</pubDate>
+         <pubDate>Wed, 10 Mar 2021 19:10:00 NZDT</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                2021-03-10 1905 NZDT<br/>
+             Time:                2021-03-10 1910 NZDT<br/>
              Outside Temperature: 16.2&#176;C<br/>
              Inside Temperature:     N/A<br/>
              Wind Chill:             N/A<br/>
@@ -38,13 +38,13 @@
              Humidity:               N/A<br/>
              Barometer:              N/A<br/>
              Wind:                   N/A from    N/A<br/>
-             Rain Rate:           0.0 mm/hr<br/>
+             Rain Rate:           0.9 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 2021-03-10 1905 NZDT</title>
+         <title>Daily Weather Summary as of 2021-03-10 1910 NZDT</title>
          <link></link>
          <description>
 	        Min outside temperature: 15.4&#176;C at 0045;
@@ -54,9 +54,9 @@
 	        Min barometer:              N/A at    N/A;
 	        Max barometer:              N/A at    N/A;
             Max wind :                  N/A from    N/A at    N/A;
-            Rain today:              4.0 mm
+            Rain today:              5.0 mm
          </description>
-         <pubDate>Wed, 10 Mar 2021 19:05:00 NZDT</pubDate>
+         <pubDate>Wed, 10 Mar 2021 19:10:00 NZDT</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
@@ -69,13 +69,13 @@
 	         Min Barometer:              N/A at    N/A<br/>
 	         Max Barometer:              N/A at    N/A<br/>
              Max Wind :                  N/A from    N/A at    N/A<br/>
-             Rain today:              4.0 mm<br/>
+             Rain today:              5.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 2021-03-10 1905 NZDT</title>
+         <title>Monthly Weather Summary as of 2021-03-10 1910 NZDT</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: 9.5&#176;C at 2021-03-08 0615 NZDT;
@@ -85,9 +85,9 @@
 	        Min barometer:              N/A at    N/A;
 	        Max barometer:              N/A at    N/A;
             Max wind :                  N/A from    N/A at    N/A;
-            Rain total for month:    7.0 mm
+            Rain total for month:    8.0 mm
          </description>
-         <pubDate>Wed, 10 Mar 2021 19:05:00 NZDT</pubDate>
+         <pubDate>Wed, 10 Mar 2021 19:10:00 NZDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   March 2021<br/>
@@ -98,13 +98,13 @@
 	         Min Barometer:              N/A at    N/A<br/>
 	         Max Barometer:              N/A at    N/A<br/>
              Max Wind :                  N/A from    N/A at    N/A<br/>
-             Rain total for month:    7.0 mm<br/>
+             Rain total for month:    8.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 2021-03-10 1905 NZDT</title>
+         <title>Yearly Weather Summary as of 2021-03-10 1910 NZDT</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: 2.9&#176;C at 2021-02-18 0613 NZDT;
@@ -114,9 +114,9 @@
 	        Min barometer:              N/A at    N/A;
 	        Max barometer:              N/A at    N/A;
             Max wind :                  N/A from    N/A at    N/A;
-            Rain total for year:     98.0 mm
+            Rain total for year:     99.0 mm
          </description>
-         <pubDate>Wed, 10 Mar 2021 19:05:00 NZDT</pubDate>
+         <pubDate>Wed, 10 Mar 2021 19:10:00 NZDT</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
@@ -127,7 +127,7 @@
 	         Min Barometer:              N/A at    N/A<br/>
 	         Max Barometer:              N/A at    N/A<br/>
              Max Wind :                  N/A from    N/A at    N/A<br/>
-             Rain total for year:     98.0 mm<br/>
+             Rain total for year:     99.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
