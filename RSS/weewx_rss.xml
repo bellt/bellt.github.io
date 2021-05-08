@@ -7,30 +7,30 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Sun, 09 May 2021 03:20:00 NZST</pubDate>
+      <pubDate>Sun, 09 May 2021 03:30:00 NZST</pubDate>
 
-      <lastBuildDate>Sun, 09 May 2021 03:20:00 NZST</lastBuildDate>
+      <lastBuildDate>Sun, 09 May 2021 03:30:00 NZST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.6.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 2021-05-09 0320 NZST</title>
+         <title>Weather Conditions at 2021-05-09 0330 NZST</title>
          <link></link>
          <description>
-           Outside temperature: 14.8&#176;C; 
+           Outside temperature: 14.7&#176;C; 
            Barometer:    N/A; 
            Wind:    N/A from    N/A; 
-           Rain rate: 4.0 mm/hr; 
+           Rain rate: 2.9 mm/hr; 
            Inside temperature:    N/A
          </description>
-         <pubDate>Sun, 09 May 2021 03:20:00 NZST</pubDate>
+         <pubDate>Sun, 09 May 2021 03:30:00 NZST</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                2021-05-09 0320 NZST<br/>
-             Outside Temperature: 14.8&#176;C<br/>
+             Time:                2021-05-09 0330 NZST<br/>
+             Outside Temperature: 14.7&#176;C<br/>
              Inside Temperature:     N/A<br/>
              Wind Chill:             N/A<br/>
              Heat Index:             N/A<br/>
@@ -38,16 +38,16 @@
              Humidity:               N/A<br/>
              Barometer:              N/A<br/>
              Wind:                   N/A from    N/A<br/>
-             Rain Rate:           4.0 mm/hr<br/>
+             Rain Rate:           2.9 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 2021-05-09 0320 NZST</title>
+         <title>Daily Weather Summary as of 2021-05-09 0330 NZST</title>
          <link></link>
          <description>
-	        Min outside temperature: 14.8&#176;C at 0310;
+	        Min outside temperature: 14.7&#176;C at 0327;
          	Max outside temperature: 16.8&#176;C at 0010;
 	        Min inside temperature:     N/A at    N/A;
 	        Max inside temperature:     N/A at    N/A;
@@ -56,13 +56,13 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain today:              1.0 mm
          </description>
-         <pubDate>Sun, 09 May 2021 03:20:00 NZST</pubDate>
+         <pubDate>Sun, 09 May 2021 03:30:00 NZST</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
            <p>
              Day:                     09 May 2021<br/>
-	         Min Outside Temperature: 14.8&#176;C at 0310<br/>
+	         Min Outside Temperature: 14.7&#176;C at 0327<br/>
 	         Max Outside Temperature: 16.8&#176;C at 0010<br/>
 	         Min Inside Temperature:     N/A at    N/A<br/>
 	         Max Inside Temperature:     N/A at    N/A<br/>
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 2021-05-09 0320 NZST</title>
+         <title>Monthly Weather Summary as of 2021-05-09 0330 NZST</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -0.8&#176;C at 2021-05-02 0426 NZST;
@@ -87,7 +87,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain total for month:    2.0 mm
          </description>
-         <pubDate>Sun, 09 May 2021 03:20:00 NZST</pubDate>
+         <pubDate>Sun, 09 May 2021 03:30:00 NZST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   May 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 2021-05-09 0320 NZST</title>
+         <title>Yearly Weather Summary as of 2021-05-09 0330 NZST</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -0.8&#176;C at 2021-05-02 0426 NZST;
@@ -116,7 +116,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain total for year:     201.0 mm
          </description>
-         <pubDate>Sun, 09 May 2021 03:20:00 NZST</pubDate>
+         <pubDate>Sun, 09 May 2021 03:30:00 NZST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
