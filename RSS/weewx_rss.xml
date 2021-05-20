@@ -7,15 +7,15 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Thu, 20 May 2021 22:40:00 NZST</pubDate>
+      <pubDate>Thu, 20 May 2021 22:50:00 NZST</pubDate>
 
-      <lastBuildDate>Thu, 20 May 2021 22:40:00 NZST</lastBuildDate>
+      <lastBuildDate>Thu, 20 May 2021 22:50:00 NZST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.6.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 2021-05-20 2240 NZST</title>
+         <title>Weather Conditions at 2021-05-20 2250 NZST</title>
          <link></link>
          <description>
            Outside temperature: 13.6&#176;C; 
@@ -24,12 +24,12 @@
            Rain rate: 0.0 mm/hr; 
            Inside temperature:    N/A
          </description>
-         <pubDate>Thu, 20 May 2021 22:40:00 NZST</pubDate>
+         <pubDate>Thu, 20 May 2021 22:50:00 NZST</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                2021-05-20 2240 NZST<br/>
+             Time:                2021-05-20 2250 NZST<br/>
              Outside Temperature: 13.6&#176;C<br/>
              Inside Temperature:     N/A<br/>
              Wind Chill:             N/A<br/>
@@ -44,7 +44,7 @@
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 2021-05-20 2240 NZST</title>
+         <title>Daily Weather Summary as of 2021-05-20 2250 NZST</title>
          <link></link>
          <description>
 	        Min outside temperature: 4.5&#176;C at 0533;
@@ -56,7 +56,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain today:              0.0 mm
          </description>
-         <pubDate>Thu, 20 May 2021 22:40:00 NZST</pubDate>
+         <pubDate>Thu, 20 May 2021 22:50:00 NZST</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
@@ -75,7 +75,7 @@
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 2021-05-20 2240 NZST</title>
+         <title>Monthly Weather Summary as of 2021-05-20 2250 NZST</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -0.8&#176;C at 2021-05-02 0426 NZST;
@@ -87,7 +87,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain total for month:    104.0 mm
          </description>
-         <pubDate>Thu, 20 May 2021 22:40:00 NZST</pubDate>
+         <pubDate>Thu, 20 May 2021 22:50:00 NZST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   May 2021<br/>
@@ -104,7 +104,7 @@
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 2021-05-20 2240 NZST</title>
+         <title>Yearly Weather Summary as of 2021-05-20 2250 NZST</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -0.8&#176;C at 2021-05-02 0426 NZST;
@@ -116,7 +116,7 @@
             Max wind :                  N/A from    N/A at    N/A;
             Rain total for year:     303.0 mm
          </description>
-         <pubDate>Thu, 20 May 2021 22:40:00 NZST</pubDate>
+         <pubDate>Thu, 20 May 2021 22:50:00 NZST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
