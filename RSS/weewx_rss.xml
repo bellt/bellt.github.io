@@ -7,30 +7,30 @@
       <link></link>
       <description>Current conditions, and daily, monthly, and yearly summaries</description>
       <language>en-us</language>
-      <pubDate>Mon, 31 May 2021 23:10:00 NZST</pubDate>
+      <pubDate>Mon, 31 May 2021 23:20:00 NZST</pubDate>
 
-      <lastBuildDate>Mon, 31 May 2021 23:10:00 NZST</lastBuildDate>
+      <lastBuildDate>Mon, 31 May 2021 23:20:00 NZST</lastBuildDate>
       <docs>http://blogs.law.harvard.edu/tech/rss</docs>
       <generator>weewx 3.6.2</generator>
       <ttl>5.000000 minutes</ttl>
       
       <item>
-         <title>Weather Conditions at 2021-05-31 2310 NZST</title>
+         <title>Weather Conditions at 2021-05-31 2320 NZST</title>
          <link></link>
          <description>
-           Outside temperature: 10.3&#176;C; 
+           Outside temperature: 10.4&#176;C; 
            Barometer:    N/A; 
            Wind:    N/A from    N/A; 
-           Rain rate: 6.0 mm/hr; 
+           Rain rate: 8.0 mm/hr; 
            Inside temperature:    N/A
          </description>
-         <pubDate>Mon, 31 May 2021 23:10:00 NZST</pubDate>
+         <pubDate>Mon, 31 May 2021 23:20:00 NZST</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
            <p>
-             Time:                2021-05-31 2310 NZST<br/>
-             Outside Temperature: 10.3&#176;C<br/>
+             Time:                2021-05-31 2320 NZST<br/>
+             Outside Temperature: 10.4&#176;C<br/>
              Inside Temperature:     N/A<br/>
              Wind Chill:             N/A<br/>
              Heat Index:             N/A<br/>
@@ -38,13 +38,13 @@
              Humidity:               N/A<br/>
              Barometer:              N/A<br/>
              Wind:                   N/A from    N/A<br/>
-             Rain Rate:           6.0 mm/hr<br/>
+             Rain Rate:           8.0 mm/hr<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Daily Weather Summary as of 2021-05-31 2310 NZST</title>
+         <title>Daily Weather Summary as of 2021-05-31 2320 NZST</title>
          <link></link>
          <description>
 	        Min outside temperature: 6.7&#176;C at 0140;
@@ -54,9 +54,9 @@
 	        Min barometer:              N/A at    N/A;
 	        Max barometer:              N/A at    N/A;
             Max wind :                  N/A from    N/A at    N/A;
-            Rain today:              45.0 mm
+            Rain today:              46.0 mm
          </description>
-         <pubDate>Mon, 31 May 2021 23:10:00 NZST</pubDate>
+         <pubDate>Mon, 31 May 2021 23:20:00 NZST</pubDate>
 	     <geo:lat>-41.252</geo:lat>
     	 <geo:long>174.954</geo:long>
  		 <content:encoded><![CDATA[
@@ -69,13 +69,13 @@
 	         Min Barometer:              N/A at    N/A<br/>
 	         Max Barometer:              N/A at    N/A<br/>
              Max Wind :                  N/A from    N/A at    N/A<br/>
-             Rain today:              45.0 mm<br/>
+             Rain today:              46.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Monthly Weather Summary as of 2021-05-31 2310 NZST</title>
+         <title>Monthly Weather Summary as of 2021-05-31 2320 NZST</title>
          <link>/month.html</link>
          <description>
 	        Min outside temperature: -0.8&#176;C at 2021-05-02 0426 NZST;
@@ -85,9 +85,9 @@
 	        Min barometer:              N/A at    N/A;
 	        Max barometer:              N/A at    N/A;
             Max wind :                  N/A from    N/A at    N/A;
-            Rain total for month:    200.0 mm
+            Rain total for month:    201.0 mm
          </description>
-         <pubDate>Mon, 31 May 2021 23:10:00 NZST</pubDate>
+         <pubDate>Mon, 31 May 2021 23:20:00 NZST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Month:                   May 2021<br/>
@@ -98,13 +98,13 @@
 	         Min Barometer:              N/A at    N/A<br/>
 	         Max Barometer:              N/A at    N/A<br/>
              Max Wind :                  N/A from    N/A at    N/A<br/>
-             Rain total for month:    200.0 mm<br/>
+             Rain total for month:    201.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
 
       <item>
-         <title>Yearly Weather Summary as of 2021-05-31 2310 NZST</title>
+         <title>Yearly Weather Summary as of 2021-05-31 2320 NZST</title>
          <link>/year.html</link>
          <description>
 	        Min outside temperature: -0.8&#176;C at 2021-05-02 0426 NZST;
@@ -114,9 +114,9 @@
 	        Min barometer:              N/A at    N/A;
 	        Max barometer:              N/A at    N/A;
             Max wind :                  N/A from    N/A at    N/A;
-            Rain total for year:     399.0 mm
+            Rain total for year:     400.0 mm
          </description>
-         <pubDate>Mon, 31 May 2021 23:10:00 NZST</pubDate>
+         <pubDate>Mon, 31 May 2021 23:20:00 NZST</pubDate>
  		 <content:encoded><![CDATA[
            <p>
              Year:                    2021<br/>
@@ -127,7 +127,7 @@
 	         Min Barometer:              N/A at    N/A<br/>
 	         Max Barometer:              N/A at    N/A<br/>
              Max Wind :                  N/A from    N/A at    N/A<br/>
-             Rain total for year:     399.0 mm<br/>
+             Rain total for year:     400.0 mm<br/>
         </p>
       ]]></content:encoded>
       </item>
