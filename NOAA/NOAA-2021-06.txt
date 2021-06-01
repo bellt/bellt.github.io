@@ -11,7 +11,7 @@ ELEV: 107 meters    LAT: 41-15.12 S    LONG: 174-57.24 E
       MEAN                               DEG    DEG          WIND                   DOM
 DAY   TEMP   HIGH   TIME    LOW   TIME   DAYS   DAYS   RAIN  SPEED   HIGH   TIME    DIR
 ---------------------------------------------------------------------------------------
- 01    9.5   11.4  11:51    8.3  07:26   15.9    0.0   10.0    N/A    N/A    N/A     90
+ 01    9.5   11.4  12:17    8.3  07:26   15.9    0.0   10.0    N/A    N/A    N/A     90
  02
  03
  04
